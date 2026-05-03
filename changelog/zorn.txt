@@ -1,0 +1,13 @@
+Device: Poco F7 Pro
+Device code name : Zorn
+Device maintainer: SMGReborn
+
+Date - 05/03/2026
+=================
+- Device Changelogs:
+* Build Gapps Version
+* Add HTSR with NewUI
+* Add Option WQHD to FHD
+* Add LunarisDolby
+* Implement Smart Cahrging
+* Build Official Support Incremental

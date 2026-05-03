@@ -1,0 +1,22 @@
+Device: Poco F7 PRO / Redmi K80
+
+⚠️ Step Flash Encrypt Position (First Time):
+1. Boot OFOX
+2. Flash ROM
+3. Manual OFOX Flash
+4. Reboot to OFOX (Recovery)
+5. Flash DFE (Optional)
+6. Format Data (If Fail reboot to Fastboot cmd: fastboot -w)
+7. Reboot System
+
+⚠️ Steps Flash Position Decrypt:
+1. Boot OFOX
+2. Flash ROM
+3. Manual OFOX Flash
+4. Reboot to OFOX (Recovery)
+5. Flash DFE
+6. Wipe Data and its cronies
+7. Delete the Android data & transform folder in OFOX File Manager
+8. Reboot System
+
+- GAPPS are already included
