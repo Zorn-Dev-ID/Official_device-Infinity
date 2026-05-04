@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1777828291,
+      "filename": "incremental_ota_v3.9_to_v3.9-V1.zip",
+      "id": "19125ce4d9eac80a0066ab9664360e9c",
+      "size": 35091670,
+      "url": "https://sourceforge.net/projects/infinity-ota-zorn/files/zorn/16/gapps/incremental_ota_v3.9_to_v3.9-V1.zip/download",
+      "version": "",
+      "device": "zorn",
+      "variant": "gapps"
+    }
+  ]
+}
